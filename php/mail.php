@@ -17,7 +17,7 @@ try {
     $mail->isSMTP();                                     //Send using SMTP
     $mail->Host       = 'smtp.gmail.com';                //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                            //Enable SMTP authentication
-    $mail->Username   = 'hiram1397@gmail.com';              //SMTP username 
+    $mail->Username   = 'laijin0724@gmail.com';              //SMTP username 
     $mail->Password   = 'rcekqfeyrbazvpsa';                 //SMTP password
     $mail->SMTPSecure = "ssl";
     $mail->Port       = 465;
